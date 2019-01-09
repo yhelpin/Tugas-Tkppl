@@ -1,8 +1,7 @@
 # Presentasi Objek Wisata Sumatera Utara
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke).
 
-## DEMO
-[View the demo.](http://coderkid.github.io/tkppl-bespoke-project)
+
 ## Team Detail
 
 * Nama kelompok: Random
